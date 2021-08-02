@@ -1,5 +1,5 @@
 ### Hi ,Ashritha Here👋
-* 🙋‍♀️ I’m an undergrad B.Tech IT student from WB
+* 🙋‍♀️ I’m a cs undergrad 
 * 👩‍💻 Currently learning React & Redux.
 * 🥅 2021 Goals: Contribute more to Open Source projects.
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ashritha-reddy-401a6a195/)
